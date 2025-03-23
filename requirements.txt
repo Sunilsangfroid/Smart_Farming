@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+requests
+langchain
+openai
+python-dotenv
+pandas
+folium
+plotly
+streamlit-folium
+geopandas
